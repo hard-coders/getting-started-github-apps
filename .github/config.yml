@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  안녕, PR 만들때 좀 더 자세한 내용과 함께 보내줬으면 좋겠어🔥
+  Hello, World!
 
 # Or an array:
 # requestInfoReplyComment:
